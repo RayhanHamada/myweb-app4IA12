@@ -1,0 +1,16 @@
+.card-title {
+    float: none !important;
+}
+
+.cardbody-hover {
+    transition: all 0.25s ease-in;
+    border-bottom: 5px solid transparent;
+    &:hover {
+        transform: translateY(-5px);
+        color: navy;
+        font-size: large !important;
+        font-weight: bold !important;
+        border: none;
+        border-bottom: 5px solid #2196fe !important;
+    }
+}

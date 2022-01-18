@@ -1,0 +1,61 @@
+.masthead {
+    background-color: #404040;
+}
+.row-title {
+    min-height: 650px;
+
+    .my-photo {
+        box-shadow: none;
+        overflow: hidden;
+    }
+
+    .my-name {
+        font-family: $font-family-sora;
+        font-size: 48px;
+        color: $myred;
+        text-align: left;
+        margin-left: 40px;
+        font-weight: bold;
+    }
+
+    .job {
+        font-family: $font-family-montserrat;
+        letter-spacing: 2px;
+        color: $myred;
+        font-size: 24px;
+        line-height: 20px;
+        text-align: left;
+        margin-left: 40px;
+    }
+
+    .deskripsi {
+        font-family: $font-family-montserrat;
+        letter-spacing: 2px;
+        color: #ffffff;
+        font-size: 14px;
+        line-height: 20px;
+        // text-align: left;
+        // max-width: 70%;
+        margin-left: 40px;
+        // margin-bottom: 20px;
+    }
+
+    .btn-cv {
+        background-color: $chocolate-primary;
+        color: #fff;
+        border: hidden;
+        border-radius: 8px;
+        margin-left: 40px;
+        height: 45px;
+        padding: 0 10;
+
+        &:hover {
+            background-color: #cfb593;
+            color: #fff;
+        }
+    }
+    .social-media {
+        margin-left: 40px;
+        margin-top: 20px;
+    }
+}

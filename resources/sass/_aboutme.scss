@@ -1,0 +1,27 @@
+.title-section {
+    font-family: $font-family-sora;
+
+    strong {
+        border-bottom: 2px solid #000;
+    }
+}
+
+.info {
+    margin-left: 60px;
+    margin-bottom: 0px;
+}
+
+li {
+    list-style: none;
+    width: 100%;
+    padding: 8px 0;
+}
+
+.first-block {
+    width: 30%;
+    float: left;
+}
+
+.second-block {
+    width: 70%;
+}

@@ -1,0 +1,39 @@
+// Body
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+$blue: #007bff !default;
+$indigo: #6610f2 !default;
+$purple: #6f42c1 !default;
+$pink: #e83e8c !default;
+$red: #dc3545 !default;
+$orange: #fd7e14 !default;
+$yellow: #ffc107 !default;
+$green: #28a745 !default;
+$teal: #20c997 !default;
+$cyan: #17a2b8 !default;
+
+//Bikinan sendiri
+$black-primary: #232323;
+$chocolate-primary: #ba9f7c;
+$chocolate-secondary: #e3d4a3;
+
+// custom
+$myred: #e41749;
+$my-light-gray: #404040;
+$my-dark-gray: #303030;
+
+//Fonts
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito&family=Open+Sans&family=Sora");
+
+// Typography
+$font-family-nunito: "Nunito", sans-serif;
+$font-family-montserrat: "Montserrat", sans-serif;
+$font-family-opensans: "Open Sans", sans-serif;
+$font-family-sora: "Sora", sans-serif;
+
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;

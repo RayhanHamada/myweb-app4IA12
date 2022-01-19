@@ -13,9 +13,6 @@
                         <a class="nav-link" href="#me">Me</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Education</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="#experience">Experience</a>
                     </li>
                     <li class="nav-item">

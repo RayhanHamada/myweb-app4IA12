@@ -33,8 +33,8 @@
                 @include('pages.navbar')
                 @include('pages.header')
                 @include('pages.me')
-                @include('pages.experience')
                 @include('pages.portofolio')
+                @include('pages.experience')
 
             </div>
         </div>

@@ -1,5 +1,6 @@
 .masthead {
     background-color: #404040;
+    height: 100vh;
 }
 .row-title {
     min-height: 550px;
@@ -11,7 +12,7 @@
 
     .my-name {
         font-family: $font-family-sora;
-        font-size: 48px;
+        font-size: 40px;
         color: $myred;
         text-align: left;
         margin-left: 40px;

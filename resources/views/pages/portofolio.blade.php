@@ -2,7 +2,7 @@
 <section id="portfolio" class="py-5">
     <!-- Page Content -->
     <h3 class="text-center title-section" style="color: #e41749;"><strong>Portofolio</strong></h3>
-    <p class="text-center font-weight-light mb-5"><small>MY LATEST WORKS</small></p>
+    <p class="text-center font-weight-light mb-5 text-white"><small>My Latest Works</small></p>
     <div class="container">
         <div class="row">
             <!-- Portofolio -->

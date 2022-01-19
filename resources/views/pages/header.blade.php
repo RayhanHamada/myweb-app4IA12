@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row align-items-center row-title">
             <div class="col-sm-4 text-center" data-aos="fade-left" data-aos-duration="1500">
-                <img src="https://avatars.githubusercontent.com/u/40117807?s=400&u=8118ead4131fe111d36927ac2b495b8d37af58ca&v=4" class="img-fluid my-photo rounded-circle" height="300" width="300" alt="my-photo">
+                <img src="https://teledriveapp.com/api/v1/files/170a48f9-64ce-441c-8b54-51c7fca45d30?raw=1" class="img-fluid my-photo rounded-circle" height="300" width="300" alt="my-photo">
             </div>
 
             <div class="col-sm-8 text-center" data-aos="fade-up" data-aos-duration="1500">

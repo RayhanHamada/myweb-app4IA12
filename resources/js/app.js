@@ -1,2 +1,3 @@
-require('./bootstrap');
-require('admin-lte');
+require("./bootstrap");
+require("admin-lte");
+require("./_navbar");

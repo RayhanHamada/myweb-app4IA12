@@ -5,3 +5,8 @@
 .nav-link {
     color: #e41749;
 }
+
+.nav-link.active {
+    color: white;
+    font-weight: bold;
+}

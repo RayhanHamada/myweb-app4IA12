@@ -2,11 +2,11 @@
     <div class="container">
         <div class="row align-items-center row-title">
             <div class="col-sm-4 text-center" data-aos="fade-left" data-aos-duration="1500">
-                <img src="https://teledriveapp.com/api/v1/files/170a48f9-64ce-441c-8b54-51c7fca45d30?raw=1" class="img-fluid my-photo rounded-circle" height="300" width="300" alt="my-photo">
+                <img src="{{ asset('img/me_juragan.png') }}" class="img-fluid my-photo rounded-circle" height="300" width="300" alt="my-photo">
             </div>
 
             <div class="col-sm-8 text-center" data-aos="fade-up" data-aos-duration="1500">
-                <p class="my-name text-center">Wello Folks, I'm Rayhan Hamada</p>
+                <p class="my-name text-center">Hello Folks, I'm Rayhan Hamada</p>
                 <p class="job text-center">Fullstuck Developer</p>
                 <p class="deskripsi text-center">Eat. Code. Stuck. Sleep. Repeat.
                 </p>

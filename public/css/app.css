@@ -1,29 +1,31 @@
 @import url(https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito&family=Open+Sans&family=Sora);
 @charset "UTF-8";
-.btn-kontak {
-  background-color: #e3d4a3;
-  color: #1a1831;
-  border: hidden;
-  border-radius: 8px;
-  margin-left: 80px;
-  height: 45px;
-}
-.btn-kontak:hover {
-  background-color: #F8E9BC;
-  color: #fff;
+.navbar-brand {
+  color: #e41749;
 }
 
-html, body {
+.nav-link {
+  color: #e41749;
+}
+
+.nav-link.active {
+  color: white;
+  font-weight: bold;
+}
+
+html,
+body {
   max-width: 100%;
   overflow-x: hidden;
 }
 
 .masthead {
-  background-color: #F7F7F7;
+  background-color: #404040;
+  height: 100vh;
 }
 
 .row-title {
-  min-height: 650px;
+  min-height: 550px;
 }
 .row-title .my-photo {
   box-shadow: none;
@@ -31,18 +33,16 @@ html, body {
 }
 .row-title .my-name {
   font-family: "Sora", sans-serif;
-  font-size: 48px;
-  color: #232323;
+  font-size: 40px;
+  color: #e41749;
   text-align: left;
   margin-left: 40px;
   font-weight: bold;
-  margin-top: 100px;
 }
 .row-title .job {
   font-family: "Montserrat", sans-serif;
-  margin-top: 10px;
   letter-spacing: 2px;
-  color: #000;
+  color: #e41749;
   font-size: 24px;
   line-height: 20px;
   text-align: left;
@@ -50,18 +50,14 @@ html, body {
 }
 .row-title .deskripsi {
   font-family: "Montserrat", sans-serif;
-  margin-top: 10px;
   letter-spacing: 2px;
-  color: #000;
+  color: #ffffff;
   font-size: 14px;
   line-height: 20px;
-  text-align: left;
-  max-width: 70%;
   margin-left: 40px;
-  margin-bottom: 20px;
 }
 .row-title .btn-cv {
-  background-color: #BA9F7C;
+  background-color: #ba9f7c;
   color: #fff;
   border: hidden;
   border-radius: 8px;
@@ -70,7 +66,7 @@ html, body {
   padding: 0 10;
 }
 .row-title .btn-cv:hover {
-  background-color: #CFB593;
+  background-color: #cfb593;
   color: #fff;
 }
 .row-title .social-media {

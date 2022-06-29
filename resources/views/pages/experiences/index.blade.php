@@ -34,7 +34,7 @@
                         <tr>
                             <th scope="row">{{ ++$key }}</th>
                             <td>{{ $item->title }}</td>
-                            <td><img src="{{ $item->loc }}" /></td>
+                            <td><img src="{{ $item->loc }}" width="300" /></td>
                             <td>{{ $item->description }}</td>
                             <td>{{ $item->since }}</td>
                             <td>
